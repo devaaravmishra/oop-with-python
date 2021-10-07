@@ -2,12 +2,12 @@
 
 ## **Contents**
 
-1.   [Classes and Instances](#01--classes-and-instances)
-2.   [Class Variables](#02--class-variables)
-3.   [Classmethods and Staticmethods](#03--class-and-static-methods)
-4.   [Creating Subclasses](#04--inheritance-creating-subclasses)
-5.   [Special (Magic/Dunder) Methods](#05--special--magic-dunder--methods)
-6.   [Property Decorators-Getters, Setters and Deleters](#06--property-decorators--getters--setters-and-deleters)
+1.   [Classes and Instances](#01-classes-and-instances)
+2.   [Class Variables](#02-class-variables)
+3.   [Classmethods and Staticmethods](#03-class-and-static-methods)
+4.   [Creating Subclasses](#04-inheritance-creating-subclasses)
+5.   [Special (Magic/Dunder) Methods](#05-special-magicdunder-methods)
+6.   [Property Decorators-Getters, Setters and Deleters](#06-property-decorators--getters-setters-and-deleters)
 
 
 
